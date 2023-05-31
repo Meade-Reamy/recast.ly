@@ -105,6 +105,7 @@ var exampleVideoData = [{
     videoId: 'o5E894TmHJg'
   },
   snippet: {
+
     publishedAt: '2015-03-09T08:19:59.000Z',
     channelId: 'UCMYct3vtNaMwZAA3_DNsWMw',
     title: 'Flux Tutorial - Writing a Simple App in Flux and React',
@@ -130,6 +131,105 @@ var exampleVideoData = [{
     liveBroadcastContent: 'none'
   }
 }, {
+  kind: 'youtube#searchResult',
+  etag: 'abQHWywil_AkNqdqji7_FqiK-u4/3E7u1VZ18KYyfLIA6RgI2w-7nRI',
+  id: {
+    kind: 'youtube#video',
+    videoId: 'Pd6Ub7Ju2RM'
+  },
+  snippet: {
+    publishedAt: '2015-02-13T18:50:38.000Z',
+    channelId: 'UCr5lOCcjZzNprLrhxO0WZQw',
+    title: 'Learn React, Flux, and Flow: Part I',
+    description: 'Brought to you by Formidable Labs and SeattleJS, Colin Megill walks us through Facebook\'s React framework in part one of this three-part series. The workshop ...',
+    thumbnails: {
+      default: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/default.jpg',
+        width: 120,
+        height: 90
+      },
+      medium: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/mqdefault.jpg',
+        width: 320,
+        height: 180
+      },
+      high: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/hqdefault.jpg',
+        width: 480,
+        height: 360
+      }
+    },
+    channelTitle: '',
+    liveBroadcastContent: 'none'
+  }
+},
+{
+  kind: 'youtube#searchResult',
+  etag: 'abQHWywil_AkNqdqji7_FqiK-u4/3E7u1VZ18KYyfLIA6RgI2w-7nRI',
+  id: {
+    kind: 'youtube#video',
+    videoId: 'Pd6Ub7Ju2RM'
+  },
+  snippet: {
+    publishedAt: '2015-02-13T18:50:38.000Z',
+    channelId: 'UCr5lOCcjZzNprLrhxO0WZQw',
+    title: 'Learn React, Flux, and Flow: Part I',
+    description: 'Brought to you by Formidable Labs and SeattleJS, Colin Megill walks us through Facebook\'s React framework in part one of this three-part series. The workshop ...',
+    thumbnails: {
+      default: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/default.jpg',
+        width: 120,
+        height: 90
+      },
+      medium: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/mqdefault.jpg',
+        width: 320,
+        height: 180
+      },
+      high: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/hqdefault.jpg',
+        width: 480,
+        height: 360
+      }
+    },
+    channelTitle: '',
+    liveBroadcastContent: 'none'
+  }
+},
+{
+  kind: 'youtube#searchResult',
+  etag: 'abQHWywil_AkNqdqji7_FqiK-u4/3E7u1VZ18KYyfLIA6RgI2w-7nRI',
+  id: {
+    kind: 'youtube#video',
+    videoId: 'Pd6Ub7Ju2RM'
+  },
+  snippet: {
+    publishedAt: '2015-02-13T18:50:38.000Z',
+    channelId: 'UCr5lOCcjZzNprLrhxO0WZQw',
+    title: 'Learn React, Flux, and Flow: Part I',
+    description: 'Brought to you by Formidable Labs and SeattleJS, Colin Megill walks us through Facebook\'s React framework in part one of this three-part series. The workshop ...',
+    thumbnails: {
+      default: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/default.jpg',
+        width: 120,
+        height: 90
+      },
+      medium: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/mqdefault.jpg',
+        width: 320,
+        height: 180
+      },
+      high: {
+        url: 'https://i.ytimg.com/vi/Pd6Ub7Ju2RM/hqdefault.jpg',
+        width: 480,
+        height: 360
+      }
+    },
+    channelTitle: '',
+    liveBroadcastContent: 'none'
+  }
+},
+{
   kind: 'youtube#searchResult',
   etag: 'abQHWywil_AkNqdqji7_FqiK-u4/3E7u1VZ18KYyfLIA6RgI2w-7nRI',
   id: {

@@ -77,3 +77,4 @@ describe('searchYouTube', function() {
     });
   });
 });
+console.log('IN SPEC', searchYouTube('cats', () => {}));
